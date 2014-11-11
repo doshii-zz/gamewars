@@ -1,5 +1,3 @@
-<?php
-
 <!DOCTYPE html>
 <html class="html">
  <head>
@@ -121,5 +119,3 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
    </body>
 </html>
-
-?>
