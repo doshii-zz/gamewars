@@ -1,3 +1,5 @@
+<?php
+
 <!DOCTYPE html>
 <html class="html">
  <head>
@@ -5,13 +7,13 @@
   <script type="text/javascript">
    if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "webpro.js", "jquery.scrolleffects.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
 </script>
-  
+
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
   <meta name="generator" content="2014.0.0.264"/>
-  <title>Game Wars</title>
+  <title>Home</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?475048684"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?95632353" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?369106152" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -19,7 +21,7 @@ var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
   <script type="text/javascript">
-   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bebas-neue:n4:all;quicksand:n4:all.js" type="text/javascript">\x3C/script>');
+   document.write('\x3Cscript src="' + (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//webfonts.creativecloud.com/bebas-neue:n4:all.js" type="text/javascript">\x3C/script>');
 </script>
     <!--custom head HTML-->
   <style>
@@ -73,9 +75,11 @@ transition: all 0.5a ease 0a ;
    <div class="browser_width grpelem" id="u140-bw">
     <div class="museBGSize" id="u140"><!-- group -->
      <div class="clearfix" id="u140_align_to_page">
-      <div class="clearfix grpelem" id="u292-4"><!-- content -->
-       <p>Copyrights NeonRoots, LLC®</p>
+      <div class="clearfix grpelem" id="pu302"><!-- column -->
+       <a class="nonblock nontext colelem" id="u302" href="http://rootstrap.it"><!-- simple frame --></a>
+       <img class="colelem" id="u292-4" alt="Copyrights NeonRoots, LLC®" width="244" height="46" src="images/u292-4.png"/><!-- rasterized frame -->
       </div>
+      <a class="nonblock nontext grpelem" id="u303" href="http://neonroots.com"><!-- simple frame --></a>
      </div>
     </div>
    </div>
@@ -117,3 +121,5 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
    </body>
 </html>
+
+?>

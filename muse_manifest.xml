@@ -1,0 +1,36 @@
+<manifest alg="2" build="328" opt="true" iceEnabled="true" exportTarget="other" resolutions="1x" timestamp="1415658699129">
+  <folder name="css">
+    <file name="site_global.css" crc="475048684"/>
+    <file name="index.css" crc="369106152" ref="index"/>
+    <file name="untitled-2.css" crc="4093970493" ref="untitled-2"/>
+  </folder>
+  <folder name="assets">
+    <file name="game-wars-landing-page-2.psd" crc="445154357" mt="1415324993000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="3850798583" ref="index:untitled-2"/>
+    <file name="museutils.js" crc="212726984" ref="index:untitled-2"/>
+    <file name="webpro.js" crc="114405901" ref="index"/>
+    <file name="form_check.php" crc="303526209" ref="index"/>
+    <file name="form_throttle.php" crc="219462772" ref="index"/>
+    <file name="form-u269.php" crc="4008023636" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3953916557" ref="index"/>
+    <file name="jquery.watch.js" crc="4125239756" ref="index:untitled-2"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="519931148" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u285-21.png" crc="3779309688" ref="index"/>
+    <file name="u285-21-r.png" crc="3779309688" ref="index"/>
+    <file name="u285-21-m.png" crc="3959462116" ref="index"/>
+    <file name="u285-21-fs.png" crc="4287145725" ref="index"/>
+    <file name="u75-4.png" crc="4112859241" ref="index"/>
+    <file name="u77-4.png" crc="290993274" ref="index"/>
+    <file name="scroll.png" crc="4288425358" ref="index"/>
+    <file name="u147-7.png" crc="4044178135" ref="index"/>
+    <file name="bottom.png" crc="4139173528" ref="index"/>
+    <file name="u292-4.png" crc="196486193" ref="index"/>
+  </folder>
+  <file name="index.html" crc="242890364" mt="1415655754894" redirect="true"/>
+  <file name="untitled-2.html" crc="192899916" mt="1415656337364" redirect="true"/>
+</manifest>
